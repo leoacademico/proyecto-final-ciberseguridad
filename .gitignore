@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Archivos locales del laboratorio
+*.db
+*.db-*
+*.log
+simulacion_*/
+.env
+venv/
